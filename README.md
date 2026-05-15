@@ -28,7 +28,7 @@ http://books.toscrape.com/
 2. Install dependencies:
    pip install requests beautifulsoup4
 3. Run the script:
-   python script_name.py
+   python web_scraping_intro.py
 
 ## 📂 Output
 
@@ -37,10 +37,6 @@ The script extracts:
 * Book titles
 * Prices
 * Availability status
-
-## ⚠️ Disclaimer
-
-This project is for educational purposes only. Always check a website’s terms of service before scraping.
 
 ## 📺 Tutorial Video
 
