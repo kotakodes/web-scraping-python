@@ -28,7 +28,7 @@ http://books.toscrape.com/
 2. Install dependencies:
    pip install requests beautifulsoup4
 3. Run the script:
-   python web_scraping_intro.py
+   python web_scraping_intro.ipynb
 
 ## 📂 Output
 
